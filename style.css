@@ -1,0 +1,86 @@
+ #main-title {
+	 color: rgb(10, 223, 216);
+	 text-align: center;
+	 font-family: Face Off M54;
+	 font-size: 60px;
+         -webkit-text-stroke: 2px black
+	 }
+
+body {
+    background: url('mainimage.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Helvetica;
+    color: white;
+}
+
+.bestlist {
+    text-align: center;
+    background-color: black;
+    font-size: 32px;
+    font-family: Face off M54;
+    opacity: .9;
+        
+        
+}
+
+a:hover {
+    background-color:crimson; 
+}
+
+.bestlist a {
+    display: inline-block;
+    width: 250px;
+}
+
+
+    
+#slogan {
+    text-align: center;
+    color:mediumspringgreen;
+    -webkit-text-stroke: 2px black;
+    font-size: 40px;
+    
+}
+
+#pic {
+    text-align: center;
+    -webkit-text-stroke: 2px black;
+    
+}
+
+
+.slider {
+    text-align: center;
+    
+    
+}
+
+
+    
+   
+    
+   
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+    
+  
+    
+    
+
+    
+
+   
+
+      
